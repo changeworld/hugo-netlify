@@ -1,0 +1,4 @@
+baseURL = "https://changeworld-hugo-netlify.netlify.com/"
+languageCode = "ja-jp"
+title = "Hugo Netlify"
+theme = "hugo_theme_robust"
